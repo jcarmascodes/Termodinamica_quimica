@@ -1,1 +1,3 @@
 # Termodinamica_quimica
+
+Este es el repositorio en donde se encuentran diversos codigos en python o en archivo de jupyter notebook relacionados la UDA de termodinámica química.
