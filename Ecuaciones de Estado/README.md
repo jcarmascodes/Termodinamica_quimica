@@ -4,7 +4,11 @@
 ---
 
 
-Este es un archivo en donde se explica lo relacionado en las ecuaciones de estado, tanto las consideraciones matemáticas detrás de ellos como las ecuaciones que los describen, así como algunas ecuaciones en donde se pueden obtener nuevas variables a partir de los resultados de las ecuaciobes polinomicas. También incluye una explicación acerca de las condiciones se deben usar ciertas ecuaciones de estado para obtener resultados más cerca de la realidad, tanto de compuestos puros, mezclas e incluso el cálculo de propiedades residuales.
+Este es un archivo en donde se explica lo relacionado en las ecuaciones de estado, sólo consideraciones matemáticas detrás de ellos, así como algunas ecuaciones en donde se pueden obtener nuevas variables a partir de los resultados de las ecuaciobes polinomicas. También incluye una explicación acerca de las condiciones se deben usar ciertas ecuaciones de estado para obtener resultados más cerca de la realidad, tanto de compuestos puros, mezclas e incluso el cálculo de propiedades residuales.
+
+
+**NOTA:**  
+Como parte de la actualización del README, las ecuaciones así como los procedimientos para resolver cada caso de cada uno están descritos tanto en los archivos experimentales como en los ejemplos de funcionamiento, para hacer un simplificación en la redacción del mismo.
 
 
 Incluye además soluciones a problemas a los códigos e instrucciones para modificaciones en el código para nuevos parámetros y propiedades termodinámicas que se puedan calcular a partir de las ecuaciones de estado.
@@ -20,41 +24,12 @@ Incluye además soluciones a problemas a los códigos e instrucciones para modif
 
 
 1. ¿Qué es una ecuación estado?
-2. Formulas de los diferentes ecuaciones de estado
+2. Consideraciones de los diferentes ecuaciones de estado
     * Ecuación del gas ideal
-      1. Consideraciones
-      2. Formulas
-         + Compuestos puros
-         + Mezclas
-      3. Limitaciones
     * Ecuación de estado de Van der Waals
-      1. Consideraciones
-      2. Formulas
-         + Compuestos puros
-         + Mezclas
-         + Propiedades residuales
-      3. Casos en donde se utiliza
     * Ecuación de estado de Redlich-Kwong
-      1. Consideraciones
-      2. Formulas
-         + Compuestos puros
-         + Mezclas
-         + Propiedades residuales
-      3. Casos en donde se utiliza
     * Ecuación de estado de Soave
-      1. Consideraciones
-      2. Formulas
-         + Compuestos puros
-         + Mezclas
-         + Propiedades residuales
-      3. Casos en donde se utiliza
     * Ecuación de estado de Peng-Robinson
-      1. Consideraciones
-      2. Formulas
-         + Compuestos puros
-         + Mezclas
-         + Propiedades residuales
-      3. Casos en donde se utiliza          
 3. Casos en donde es preferente usar una ecuación de estado en específico
 4. Solución a problemas y modificación de los archivos
 
