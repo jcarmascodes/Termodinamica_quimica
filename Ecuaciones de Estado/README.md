@@ -41,12 +41,42 @@ Incluye además soluciones a problemas a los códigos e instrucciones para modif
 
 
 ---
+En los campos de física y química las ecuaciones de estado es una ecuación termodinamica que relaciona entre las diferentes variables termodinámicas que determinan cada estado de equilibrio de un sistema bajo diferentes condiciones físicas del mismo y los posibles valores que puedan tener.  
+
+$\newline$
+
+Las ecuaciones de estado en su forma en general están descritas de la siguiente manera:  
+
+
+$$f(p,T,V)=0$$
+
+
+En donde $p$ es la presión del sistema, $T$ es la temperatura del sistema y $V$ es el volumen del sistema. Sin embargo, para que sean manejables las variables sólo dos variables son independientes:
+
+
+$$p=f(T,V)$$  
+
+
+$$V=f(T,p)$$
+
+
+Las ecuaciones de estado está directamente relacionada con la regla de fases de Gibbs , es decir, el número de variables independientes depende del número de sustancias y fases en el sistema. Una ecuación de estado entonces es el modelado de las condiciones del sistema mediante modelos que reflejan las relaciones que mostraron anteriormente; entonces cada ecuación de estado son modelos que se aplican en la escala microscópico o mediante aproximaciones empíricas a partir de datos experimentales, por lo que estos pueden ser considerados como ecuaciones fenomenológicas.  
+
+
+$\newline$
+
+
+La ecuaciones de estado puede utilizarse para evaluar muchas propiedades importantes tanto de sustancias puras como de mezclas como las siguientes: 1. _densidades entre las fases líquida y vapor_; 2. _presión de vapor_; 3. _propiedades críticas de las mezclas_; 4. _relaciones de equilibrio vapor-líquido_; 5. _desviación de la entalpía con respecto a la idealidad_; y 6. _desviación de la entropía con respecto a la idealidad_.  
+
+$\newline$
+
+En la actualidad no hay ecuación de estado que pueda describir con exactitud el comportamiento de todas las sustancias en todas las condiciones, sin embargo, es necesario saber cuáles ecuaciones se adaptan mejor a las condiciones en las que se encuentre las diferentes sustancias. Otro detalle a considerar es que cada ecuación de estado son aproximaciones del comportamiento del sistema por lo que está asociada a un cierto grado de exactitud con respecto a las mediciones de las condiciones reales.
 
 
 ---
 
 
-## _FORMULAS DE LOS DIFERENTES ECUACIONES DE ESTADO_
+## _CONSIDERACIONES DE LOS DIFERENTES ECUACIONES DE ESTADO_
 
 
 ---
@@ -55,26 +85,18 @@ Incluye además soluciones a problemas a los códigos e instrucciones para modif
 ### Ecuación del gas ideal
 
 
-#### 1. Consideraciones
 
-
-#### 2. Formulas
-
-
-#### 3. Limitaciones
 
 
 ### Ecuación de estado de Van der Waals
 
 
-#### 1. Consideraciones
 
+### Ecuación de estado de Redlich-Kwong
 
-#### 2. Formulas
-#### _a.Compuesto puro_
+### Ecuación de estado de Soave
 
-#### 3. Casos en donde se utiliza
-
+### Ecuación de estado de Peng-Robinson
 
 ---
 
