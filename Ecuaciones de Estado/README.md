@@ -67,7 +67,13 @@ $\newline$
 
 
 La ecuaciones de estado puede utilizarse para evaluar muchas propiedades importantes tanto de sustancias puras como de mezclas como las siguientes: 1. _densidades entre las fases líquida y vapor_; 2. _presión de vapor_; 3. _propiedades críticas de las mezclas_; 4. _relaciones de equilibrio vapor-líquido_; 5. _desviación de la entalpía con respecto a la idealidad_; y 6. _desviación de la entropía con respecto a la idealidad_.  
+
+$\newline$
+
 ![IMA_edo-01](https://github.com/user-attachments/assets/dae06bba-0a42-4b5b-b5c8-819cb7d9a635)
+
+
+Imagen 1: La utilización de las ecuaciones de estado es útil para la creación de diagramas de fase en donde se puede identificar los cambios del estado físico de un compuesto puro o en mezcla, es utilizado en la rama ingeniería de procesos relacionado con la ingeniería química y otras área de estudio.  
 
 $\newline$
 
