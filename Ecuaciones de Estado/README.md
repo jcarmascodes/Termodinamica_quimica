@@ -20,23 +20,6 @@ Incluye además soluciones a problemas a los códigos e instrucciones para modif
 ---
 
 
-## _CONTENIDO_
-
-
-1. ¿Qué es una ecuación estado?
-2. Consideraciones de los diferentes ecuaciones de estado
-    * Ecuación del gas ideal
-    * Ecuación de estado de Van der Waals
-    * Ecuación de estado de Redlich-Kwong
-    * Ecuación de estado de Soave
-    * Ecuación de estado de Peng-Robinson
-3. Casos en donde es preferente usar una ecuación de estado en específico
-4. Solución a problemas y modificación de los archivos
-
-
----
-
-
 ## _¿QUÉ ES UNA ECUACIÓN DE ESTADO?_
 
 
