@@ -4,7 +4,7 @@ Este es el repositorio en donde se encuentran diversos codigos en python o en ar
 
 
 Los temas que se abordan en este repositorio son:  
-1. Ecuaciones de estados (Sustancias puras, mezclas y propiedades residuales)  
+1. Ecuaciones de estado (Sustancias puras, mezclas y propiedades residuales)  
 * Ecuación de los gases ideales
 * Ecuación de Estado de Van der Waals
 * Ecuación de Estado de Redlich-Kwong
