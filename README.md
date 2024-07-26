@@ -16,7 +16,10 @@ Los temas que se abordan en este repositorio son:
 * Ecuación de Wilson
 * Ecuación de NRTL
 
+$$\newline$$
+
 
 **Elaborado por:**  
 Felipe Alejandro Valdivia Sánchez  
 Estudiante de Ingeniería Química Sustentable  
+Universidad de Guanajuato  
