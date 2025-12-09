@@ -1,0 +1,2 @@
+Los archivos que se inclurán en este directorio es una nueva versión que se está trabajando para el cálculo de los coeficientes de actividad basado en el método de UNIFAC. No es un versión definitiva por lo que está versión será eliminada tras su finalización. 
+Está versión incluye una versión modificada del código realizados por Alejandra Risco Bravo, estudiante de la Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador. Créditos respectivos a su creador.
