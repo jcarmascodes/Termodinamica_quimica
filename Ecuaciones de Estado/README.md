@@ -74,7 +74,8 @@ A diferencia de realizar medidas a como lo hariamos con instrumentos básicos co
 
 $\newline$
 
-[]
+<img width="750" height="588" alt="png-clipart-matter-macroscopic-scale-chemistry-molecule-length-scale-others-glass-angle" src="https://github.com/user-attachments/assets/d995030c-2cec-4ca9-91bd-de45cca118dd" />
+
 
 
 Imagen 2: En la escala macroscópica es referido a los objetos que están una escala que se puede medir y manipular utilizando los instrumentos que se usan de manera convencional como lo es tornillo o la bota, pero cuando es referido la escala microscópica en termodinámica se habla a escala molecular como lo es una estructura formando una red molecular ya sea por la interacciones por enlaces metálicos como red de entrecruzamiento en los polímeros.
@@ -87,17 +88,13 @@ Pero, sin embargo, a nivel molecular es totalmente diferente debido a las limita
 Entre las diferentes constantes se encuentran la constante de Boltzmann ($k_{B}$) que relaciona las magnitudes de la escala molecular en términos de energía y la variación este mismo , el número de Avogadro ($N_{A}$) que relaciona una magnitud númerica de una escala molecular a una escala que se puede medir como la masa y el volumen de compuestos. Sin embargo, cuando se trata de fluidos es necesario tener ambas relaciones para medir las propiedades y medidas termodinámicas por ello en la definición de la constante universal de los gases se incluye la siguiente relación:
 
 
-\begin{equation}
-    R\,=\,N_{A}\,k_{B}  
-\end{equation}
+$$R = N_{A} k_{B}  $$
+    
 
-\begin{equation}
-    R\,=\,(6.023\,x\,10^{23}\,mol^{-1})\,(1.3806\,x\,10^{-23}\,\dfrac{J}{K})
-\end{equation}
+$$R = (6.023 x 10^{23} mol^{-1}) (1.3806 x 10^{-23} \dfrac{J}{K})$$
 
-\begin{equation}
-    R\,=\,8.3145\,\dfrac{J}{mol\,K}
-\end{equation}
+
+$$R = 8.3145\dfrac{J}{mol K}$$
 
 
 A partir de esta variable, se realizaron otras conversiones a otras unidades medida entre las del Sistema Internacional como las del Sistema Inglés y con ello se han realizado diferentes ecuaciones para describir el comportamiento de sistemas químicos y físicos, incluyendo las que se ocupan en las ecuaciones de estado y ecuaciones aplicados a la ingeniería química.
